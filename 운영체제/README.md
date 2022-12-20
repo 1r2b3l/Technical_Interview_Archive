@@ -4,7 +4,7 @@
 
  
 
-* [프로세스와 스레드의 차이](~/프로세스와 스레드의 차이.md)
+* [프로세스와 스레드의 차이](https://github.com/1r2b3l/Technical_Interview_Archive/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
 
 
