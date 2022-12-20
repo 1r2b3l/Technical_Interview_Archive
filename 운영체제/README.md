@@ -17,11 +17,7 @@
 
 
 
-* 문맥 교환(context swithcing)의 정의
-
-
-
-* 문맥 교환(context switching)이 오버헤드의 주 원인
+* 문맥 교환(context swithcing)의 정의와 오버헤드의 주 원인임을 설명
 
 
 
