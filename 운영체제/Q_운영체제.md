@@ -1,6 +1,6 @@
 # 운영체제
 
-* 교착 상태(데드락, deadlock) 설명과 해결 방법
+* [교착 상태(데드락, deadlock) 설명과 해결 방법](https://github.com/1r2b3l/Technical_Interview_Archive/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EA%B5%90%EC%B0%A9%20%EC%83%81%ED%83%9C(%EB%8D%B0%EB%93%9C%EB%9D%BD%2C%20deadlock)%20%EC%84%A4%EB%AA%85%EA%B3%BC%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EB%B2%95.md)
 
  
 
