@@ -13,7 +13,7 @@
 
 
 
-* 시스템 콜의 정의
+* [시스템 콜의 정의](https://github.com/1r2b3l/Technical_Interview_Archive/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C%EC%9D%B4%EB%9E%80.md)
 
 
 
